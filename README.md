@@ -1,6 +1,4 @@
-# sensing
-
-A new Flutter project.
+# Sensing: A new Flutter project.
 
 ## Getting Started
 
