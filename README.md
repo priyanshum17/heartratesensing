@@ -23,17 +23,4 @@ This Flutter application is designed for high-frequency Inertial Measurement Uni
 - **High-Frequency Data Capture**: Records accelerometer, gyroscope, and magnetometer data at 100 Hz.
 - **Real-time Sensor Monitoring**: Displays recent sensor readings on-screen.
 - **CSV Export**: Compiles recorded sensor data into a CSV file for easy analysis.
-- **Native Sharing Integration**: Facilitates seamless sharing of the generated CSV file via the device's native share sheet (e.g., AirDrop on iOS).
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Native Sharing Integration**: Facilitates seamless sharing of the generated CSV file via the device's native share sheet (e.g., AirDrop on iOS)
